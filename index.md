@@ -8,5 +8,10 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Yali Pan, cognitive neuroscience researcher
+# Yali Pan
+Leverhulme Early Career Fellow
+
+Centre for Human Brain Health
+University of Birmingham, UK
+
 
